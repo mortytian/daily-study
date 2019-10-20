@@ -1,0 +1,5 @@
+Child Process!
+i=0,k=2633
+
+Parent Process!
+i=2633,j=2633,k=0
